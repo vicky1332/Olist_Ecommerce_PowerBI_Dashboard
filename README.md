@@ -225,8 +225,3 @@ Interactive Power BI Dashboard
         ↓
 Business Insights & Recommendations
 ---
-
-## 👨‍💻 About the Author
-
-### Trivikram Kambhampati
-
